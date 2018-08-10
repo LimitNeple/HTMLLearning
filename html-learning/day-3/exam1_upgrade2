@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <meta charset="UTF-8">
+  </head>
+  <body>
+    <table border="1">
+      <tr height="50">
+        <td rowspan="2" width="50">  </td>
+        <td width="50">  </td>
+        <td colspan="2"width="100">  </td>
+      </tr>
+      <tr height="50">
+        <th rowspan="2" colspan="2" align="center" width="100">AMAZING TABLE</th>
+        <td width="50">  </td>
+      </tr>
+      <tr height="50">
+        <td width="50">  </td>
+        <td rowspan="2" width="50">  </td>
+      </tr>
+      <tr height="50">
+        <td colspan="2" width="100">  </td>
+        <td width="50">  </td>
+      </tr>
+    </table>
+  </body>
+</html>
